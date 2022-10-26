@@ -75,5 +75,5 @@ Tailwind doesn't include components by default, but there is plenty of free sour
 
 ### Examples
 
-- [My porftolio assignment](https://relcnob.github.io/portfolio-2022/)
+- [My portfolio assignment](https://relcnob.github.io/portfolio-2022/)
 - [My designing with frameworks assignment](https://relcnob.github.io/13C.02.02.designing-with-frameworks/)
